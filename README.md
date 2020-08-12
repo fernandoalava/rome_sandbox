@@ -1,3 +1,7 @@
-Playground for https://romefrontend.dev
+# Playground for https://romefrontend.dev
 
-- Testing (incomplete)
+## Motivation
+
+Practical examples to use Rome
+
+1. Testing (incomplete)
