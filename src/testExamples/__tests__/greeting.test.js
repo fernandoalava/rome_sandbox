@@ -1,4 +1,4 @@
-import { greeting, defaultName } from "../greeting";
+import { defaultName, greeting } from "../greeting";
 import { test } from "rome";
 
 test("Say Hello Fernando", (api) => {
